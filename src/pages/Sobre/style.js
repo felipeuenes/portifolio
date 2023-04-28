@@ -10,6 +10,8 @@ export const Container = styled.div`
     gap: 5.0rem;
 
 
+
+
     h1{
         font-size: 3.2rem;
         margin-top: 10.0rem;
@@ -24,5 +26,6 @@ export const Container = styled.div`
         text-align: center;
         margin: 0 auto;
     }
+    
 
 `;
