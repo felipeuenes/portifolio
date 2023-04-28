@@ -11,6 +11,11 @@ export const Container = styled.div`
     text-align: center;
     margin: 0 auto;
     
+    @media screen and (max-width: 1000px) {
+        flex-direction: column;
+       
+
+    }
 
     p{
         width: 18.0rem;
