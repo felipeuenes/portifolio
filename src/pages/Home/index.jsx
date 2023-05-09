@@ -12,7 +12,7 @@ export function Home() {
                     <section>
                         <h2>OLÁ, EU SOU</h2>
                         <h1>FELIPE UENES</h1>
-                        <h2>DESENVOLVEDOR FULL STACK</h2>                    
+                        <h2>DESENVOLVEDOR FULL STACK <br/>E DESIGNER GRÁFICO<br/><br/></h2>                    
                 
                     
                     </section>
